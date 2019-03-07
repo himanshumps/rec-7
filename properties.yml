@@ -1,0 +1,5 @@
+APP_NAME: rec-mar-developer-7
+MS_NAME: rec-7
+BRANCH: master
+GIT_SOURCE_URL: https://github.com/himanshumps/rec-7.git
+SONAR_HOST_URL: http://sonar-rec-mar-developer-7-cicd.52.172.12.252.nip.io
